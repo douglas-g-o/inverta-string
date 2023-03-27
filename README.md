@@ -6,3 +6,5 @@ O programa, então, percorrerá a string a partir do último caractere até o pr
 É importante destacar que este programa é desenvolvido em JavaScript e não utiliza funções prontas, como reverse, para inverter a string. Dessa forma, todo o processo é realizado através de laços de repetição e concatenação de strings.
 
 Com esse programa, o usuário poderá escolher qualquer palavra ou frase para ser invertida e visualizar o resultado de forma simples e rápida.
+
+site para testar: https://inverter-texto.web.app
